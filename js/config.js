@@ -1,0 +1,9 @@
+export const GAME_CONFIG = {
+    PADDLE_WIDTH: 20,
+    PADDLE_HEIGHT: 80,
+    BALL_RADIUS: 10,
+    PADDLE_SPEED: 5,
+    BALL_SPEED: 5,
+    CANVAS_WIDTH: 600,
+    CANVAS_HEIGHT: 400
+};
